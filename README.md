@@ -69,6 +69,7 @@ Entry:
 # 3D graphics
 
 * https://www.udacity.com/course/interactive-3d-graphics--cs291
+* https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 # AI
 
