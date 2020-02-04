@@ -42,6 +42,10 @@ Programming environments that are hassle free:
 
 https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman, co-creator of Reddit
 
+# UI programming
+
+TODO
+
 # Networks
 
 * https://hpbn.co/ - quite specialised but great resource
@@ -62,12 +66,17 @@ Entry:
 
 * https://www.geeksforgeeks.org/ - lots of explanations (not best) with implementations
 
+# 3D graphics
+
+* https://www.udacity.com/course/interactive-3d-graphics--cs291
+
 # AI
 
 * https://www.fast.ai/ - best ML course (very practical)
 * https://www.coursera.org/learn/machine-learning (ML theory basics)
 * book: "Reinforcement Learning: An Introduction"
 * book: "Artificial Intelligence: A Modern Approach"
+* youtube: David Silvers intro to RL - https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 
 
