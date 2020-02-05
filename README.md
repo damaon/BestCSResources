@@ -20,6 +20,7 @@ This is collection of best resources for many different CS topics that I know of
 
 ## How linux/OS works
 https://os.phil-opp.com/ - how to implement OS kernel in Rust
+
 http://www.linuxfromscratch.org/lfs/ 
 
 ## Programming contests / training
@@ -61,10 +62,8 @@ TODO
 
 # Algorithms
 
-Entry:
 * book: "Algorithms unlocked"
 * book: "The Algorithm Design Manual"
-
 * https://www.geeksforgeeks.org/ - lots of explanations (not best) with implementations
 
 # 3D graphics
