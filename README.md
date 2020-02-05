@@ -19,7 +19,8 @@ This is collection of best resources for many different CS topics that I know of
 * https://www.bottomupcs.com/ - "computer science from bottom up"
 
 ## How linux/OS works
-https://os.phil-opp.com/ - how to implement OS in Rust
+https://os.phil-opp.com/ - how to implement OS kernel in Rust
+http://www.linuxfromscratch.org/lfs/ 
 
 ## Programming contests / training
 
