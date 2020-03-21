@@ -58,7 +58,10 @@ TODO
 
 ## SQL
 
-* I don't know one - learned at Uni :/
+* https://www.postgresql.org/docs/12/index.html - postgresql manual, good intro
+* https://use-the-index-luke.com/ - indexing explained
+* https://pgexercises.com/ - interactive exercises
+* https://sqlbolt.com/ - interactive exercises
 
 # Algorithms
 
