@@ -54,7 +54,9 @@ TODO
 
 # Databases
 
-* https://dataintensive.net/ - great overview 
+* https://dataintensive.net/ - great overview/intro
+* https://www.youtube.com/channel/UC5ZAemhQUQuNqW3c9Jkw8ug - "Introduction to Databases" by Jennifer Widom
+* https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf - "architecture of DB systems", advanced
 
 ## SQL
 
