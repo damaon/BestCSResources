@@ -4,6 +4,7 @@ This is collection of best resources for many different CS topics that I know of
 
 ## Cmd
 * How to use CMD line, etc. - https://missing.csail.mit.edu/
+* Unix commands - https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf
 
 ## Vim
 * just run `vimtutor`
