@@ -78,6 +78,7 @@ TODO
 # System design:
 * https://www.educative.io/courses/grokking-the-system-design-interview
 * https://www.youtube.com/watch?v=bUHFg8CZFws
+* https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/
 
 # 3D graphics
 
