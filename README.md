@@ -72,6 +72,9 @@ TODO
 * book: "The Algorithm Design Manual"
 * https://www.geeksforgeeks.org/ - lots of explanations (not best) with implementations
 
+# System design:
+* https://www.educative.io/courses/grokking-the-system-design-interview
+
 # 3D graphics
 
 * https://www.udacity.com/course/interactive-3d-graphics--cs291
