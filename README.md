@@ -60,6 +60,8 @@ TODO
 * https://www.youtube.com/channel/UC5ZAemhQUQuNqW3c9Jkw8ug - "Introduction to Databases" by Jennifer Widom
 * https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf - "architecture of DB systems", advanced
 
+* DB tests: https://jepsen.io/analyses
+
 ## SQL
 
 * https://www.postgresql.org/docs/12/index.html - postgresql manual, good intro
