@@ -80,6 +80,10 @@ TODO
 * https://www.udacity.com/course/interactive-3d-graphics--cs291
 * https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
+# Game programming
+* https://gameprogrammingpatterns.com/contents.html
+* Minecraft in Unity: https://www.youtube.com/watch?v=h66IN1Pndd0
+
 # AI
 
 * https://www.fast.ai/ - best ML course (very practical)
