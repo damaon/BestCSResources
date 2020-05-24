@@ -75,6 +75,7 @@ TODO
 
 # System design:
 * https://www.educative.io/courses/grokking-the-system-design-interview
+* https://www.youtube.com/watch?v=bUHFg8CZFws
 
 # 3D graphics
 
