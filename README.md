@@ -50,6 +50,13 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 TODO
 
+## Javascript
+* "Eloquent Javascript" book
+* "You don't know JS" book - https://github.com/getify/You-Dont-Know-JS
+
+# Browsers
+* https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
 # Networks
 
 * https://hpbn.co/ - quite specialised but great resource
