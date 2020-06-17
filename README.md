@@ -48,7 +48,9 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 # UI programming
 
-TODO
+## React
+* https://jasonformat.com/wtf-is-jsx/
+* https://pomb.us/build-your-own-react/
 
 ## Javascript
 * "Eloquent Javascript" book
