@@ -1,5 +1,8 @@
 This is collection of best resources for many different CS topics that I know of that value your time. 
 
+# Similar resources:
+* https://teachyourselfcs.com
+
 # Basics
 
 ## Cmd
