@@ -53,7 +53,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://pomb.us/build-your-own-react/
 
 ## Javascript
-* "Eloquent Javascript" book
+* "Eloquent Javascript" book - https://eloquentjavascript.net/
 * "You don't know JS" book - https://github.com/getify/You-Dont-Know-JS
 
 # Browsers
