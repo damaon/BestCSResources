@@ -89,7 +89,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://www.geeksforgeeks.org/ - lots of explanations (not best) with implementations
 
 # Security
-* https://www.cl.cam.ac.uk/~rja14/book.html - "Security Enginerring"
+* https://www.cl.cam.ac.uk/~rja14/book.html - "Security Engineering"
 * https://owasp.org/www-project-top-ten/
 
 # System design:
