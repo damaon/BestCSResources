@@ -68,7 +68,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 # Databases
 
-* https://dataintensive.net/ - great overview/intro
+* https://dataintensive.net/ - great overview/intro of not only DBs
 * https://www.youtube.com/channel/UC5ZAemhQUQuNqW3c9Jkw8ug - "Introduction to Databases" by Jennifer Widom
 * https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf - "architecture of DB systems", advanced
 
@@ -86,6 +86,10 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * book: "Algorithms unlocked"
 * book: "The Algorithm Design Manual"
 * https://www.geeksforgeeks.org/ - lots of explanations (not best) with implementations
+
+# Security
+* https://www.cl.cam.ac.uk/~rja14/book.html - "Security Enginerring"
+* https://owasp.org/www-project-top-ten/
 
 # System design:
 * https://www.educative.io/courses/grokking-the-system-design-interview
