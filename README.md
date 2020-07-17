@@ -94,6 +94,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 # System design:
 * https://www.educative.io/courses/grokking-the-system-design-interview
+* https://github.com/donnemartin/system-design-primer
 * https://www.youtube.com/watch?v=bUHFg8CZFws
 * https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/
 
