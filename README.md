@@ -14,7 +14,6 @@ This is collection of best resources for many different CS topics that I know of
 
 ## Git
 * How to use git - https://learngitbranching.js.org/
-* How git works - https://thoughtbot.com/blog/rebuilding-git-in-ruby
 * Manual - https://git-scm.com/book/en/v2
 
 ## How computer works:
