@@ -115,10 +115,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * youtube: David Silvers intro to RL - https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 # Distributed systems
-TODO
-
-# Scaling
-* http://highscalability.com/
+* ?
 
 
 
