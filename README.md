@@ -84,6 +84,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 # Algorithms
 
 * book: "Algorithms unlocked"
+* book: "Grokking algorithms"
 * book: "The Algorithm Design Manual"
 * https://www.geeksforgeeks.org/ - lots of explanations (not best) with implementations
 
