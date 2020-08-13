@@ -15,6 +15,7 @@ This is collection of best resources for many different CS topics that I know of
 ## Git
 * How to use git - https://learngitbranching.js.org/
 * Manual - https://git-scm.com/book/en/v2
+* https://shop.jcoglan.com/building-git/ - how to build git
 
 ## How computer works:
 
