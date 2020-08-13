@@ -59,6 +59,9 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * "Eloquent Javascript" book - https://eloquentjavascript.net/
 * "You don't know JS" book - https://github.com/getify/You-Dont-Know-JS
 
+## Node.js
+* "Node.js design patterns (3rd)"
+
 # Browsers
 * https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
