@@ -122,6 +122,11 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * book: "Artificial Intelligence: A Modern Approach"
 * youtube: David Silvers intro to RL - https://www.youtube.com/watch?v=2pWv7GOvuf0
 
+# RL
+* https://spinningup.openai.com/en/latest/user/introduction.html
+* https://www.coursera.org/specializations/reinforcement-learning
+* https://github.com/Svalorzen/AI-Toolbox
+
 # UX
 * book "Design of everyday things"
 * https://lawsofux.com/
