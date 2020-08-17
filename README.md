@@ -113,6 +113,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 # Game programming
 * https://gameprogrammingpatterns.com/contents.html
 * Minecraft in Unity: https://www.youtube.com/watch?v=h66IN1Pndd0
+* https://github.com/bevyengine/bevy
 
 # AI
 
