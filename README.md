@@ -38,6 +38,7 @@ http://www.linuxfromscratch.org/lfs/
 # Programming basics:
 
 * https://cs50.harvard.edu/
+* http://blough.ece.gatech.edu/3020/focs.pdf
 * https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/ (more advanced)
 
 Programming environments that are hassle free:
