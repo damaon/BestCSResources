@@ -105,6 +105,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://github.com/donnemartin/system-design-primer
 * https://www.youtube.com/watch?v=bUHFg8CZFws
 * https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/
+* https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10)?redirectedfrom=MSDN 
 
 # 3D graphics
 
@@ -135,6 +136,14 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 # Technology radar
 * https://www.thoughtworks.com/
+
+# Distributed systems
+* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf
+
+
+# Articles 
+* https://snyk.io/blog/10-react-security-best-practices/
+
 
 
 
