@@ -143,6 +143,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 # Articles 
 * https://snyk.io/blog/10-react-security-best-practices/
+* https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html
 
 
 
