@@ -134,6 +134,9 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * book "Design of everyday things"
 * https://lawsofux.com/
 
+# Distributed systems
+* https://sre.google/sre-book/monitoring-distributed-systems/
+
 # Technology radar
 * https://www.thoughtworks.com/
 
