@@ -75,6 +75,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://dataintensive.net/ - great overview/intro of not only DBs
 * https://www.youtube.com/channel/UC5ZAemhQUQuNqW3c9Jkw8ug - "Introduction to Databases" by Jennifer Widom
 * https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf - "architecture of DB systems", advanced
+* http://daslab.seas.harvard.edu/classes/cs165/ 
 
 * DB tests: https://jepsen.io/analyses
 
@@ -135,6 +136,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://lawsofux.com/
 
 # Distributed systems
+* https://dancres.github.io/Pages/
 * https://sre.google/sre-book/monitoring-distributed-systems/
 
 # Technology radar
