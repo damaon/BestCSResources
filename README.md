@@ -138,6 +138,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://lawsofux.com/
 
 # Distributed systems
+* https://understandingdistributed.systems/
 * https://dancres.github.io/Pages/
 * https://sre.google/sre-book/monitoring-distributed-systems/
 
