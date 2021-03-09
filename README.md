@@ -92,6 +92,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * book: "Algorithms unlocked"
 * book: "Grokking algorithms"
 * book: "The Algorithm Design Manual"
+* book: "Craking the coding interview"
 * https://www.geeksforgeeks.org/ - lots of explanations (not best) with implementations
 * https://leetfree.com/ - leetcode solutions
 * https://labuladong.gitbook.io/algo-en/ 
@@ -143,7 +144,8 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://www.thoughtworks.com/
 
 # Distributed systems
-* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf
+* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf - "Design patterns for container-based distributed systems"
+* https://understandingdistributed.systems/
 
 
 # Articles 
