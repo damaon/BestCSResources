@@ -111,6 +111,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 # 3D graphics
 
+* http://www.pbr-book.org/
 * https://www.udacity.com/course/interactive-3d-graphics--cs291
 * https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
