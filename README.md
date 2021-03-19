@@ -154,6 +154,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://snyk.io/blog/10-react-security-best-practices/
 * https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html
 * https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
+* https://betterprogramming.pub/rabbitmq-vs-kafka-1ef22a041793
 
 
 
