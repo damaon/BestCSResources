@@ -156,6 +156,9 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
 * https://betterprogramming.pub/rabbitmq-vs-kafka-1ef22a041793
 
+# Blogs
+* https://erikbern.com/
+
 
 
 
