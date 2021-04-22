@@ -158,6 +158,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 # Blogs
 * https://erikbern.com/
+* https://www.swyx.io/
 
 
 
