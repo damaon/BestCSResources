@@ -149,6 +149,9 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf - "Design patterns for container-based distributed systems"
 * https://understandingdistributed.systems/
 
+# Programming languages
+* https://computationbook.com/
+* http://craftinginterpreters.com/
 
 # Articles 
 * https://snyk.io/blog/10-react-security-best-practices/
