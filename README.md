@@ -160,9 +160,12 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://betterprogramming.pub/rabbitmq-vs-kafka-1ef22a041793
 
 # Blogs
+* https://blog.pragmaticengineer.com/
+* https://www.joelonsoftware.com/
 * https://erikbern.com/
 * https://www.swyx.io/
 * https://lpil.uk/blog/how-to-make-a-programming-language/
+* https://blog.doist.com/decision-making-flat-organization/
 
 
 
