@@ -155,7 +155,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://computationbook.com/
 * http://craftinginterpreters.com/
 * "Programming Language Pragmatics" book
-*[Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
+* [Dragons Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 
 # Articles 
 * https://snyk.io/blog/10-react-security-best-practices/
