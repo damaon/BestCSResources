@@ -148,10 +148,14 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 # Distributed systems
 * https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf - "Design patterns for container-based distributed systems"
 * https://understandingdistributed.systems/
+* Designing data-intensive applications book
+* [course by Martin Kleppmann](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf)
 
 # Programming languages
 * https://computationbook.com/
 * http://craftinginterpreters.com/
+* "Programming Language Pragmatics" book
+*[Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 
 # Articles 
 * https://snyk.io/blog/10-react-security-best-practices/
