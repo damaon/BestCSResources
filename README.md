@@ -62,6 +62,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 
 ## Node.js
 * "Node.js design patterns (3rd)"
+* "Mastering Node.js (3rd)" book - very good overview
 
 # Browsers
 * https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
