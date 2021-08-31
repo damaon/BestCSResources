@@ -2,6 +2,7 @@ This is collection of best resources for many different CS topics that I know of
 
 # Similar resources:
 * https://teachyourselfcs.com
+* https://e2eml.school/
 
 # Basics
 
