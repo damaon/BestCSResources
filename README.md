@@ -171,6 +171,7 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://www.swyx.io/
 * https://lpil.uk/blog/how-to-make-a-programming-language/
 * https://blog.doist.com/decision-making-flat-organization/
+* https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/
 
 
 
