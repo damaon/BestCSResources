@@ -2,7 +2,22 @@ This is collection of best resources for many different CS topics that I know of
 
 # Similar resources:
 * https://teachyourselfcs.com
+
+# AI
+* https://spinningup.openai.com/en/latest/user/introduction.html
+
+# ML
 * https://e2eml.school/
+* https://www.fast.ai/ - best ML course (very practical)
+* https://www.coursera.org/learn/machine-learning (ML theory basics)
+* book: "Reinforcement Learning: An Introduction"
+* book: "Artificial Intelligence: A Modern Approach"
+* youtube: David Silvers intro to RL - https://www.youtube.com/watch?v=2pWv7GOvuf0
+
+# RL
+* https://www.coursera.org/specializations/reinforcement-learning
+* https://github.com/Svalorzen/AI-Toolbox
+
 
 # Basics
 
@@ -121,19 +136,6 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://gameprogrammingpatterns.com/contents.html
 * Minecraft in Unity: https://www.youtube.com/watch?v=h66IN1Pndd0
 * https://github.com/bevyengine/bevy
-
-# AI
-
-* https://www.fast.ai/ - best ML course (very practical)
-* https://www.coursera.org/learn/machine-learning (ML theory basics)
-* book: "Reinforcement Learning: An Introduction"
-* book: "Artificial Intelligence: A Modern Approach"
-* youtube: David Silvers intro to RL - https://www.youtube.com/watch?v=2pWv7GOvuf0
-
-# RL
-* https://spinningup.openai.com/en/latest/user/introduction.html
-* https://www.coursera.org/specializations/reinforcement-learning
-* https://github.com/Svalorzen/AI-Toolbox
 
 # UX
 * book "Design of everyday things"
