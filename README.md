@@ -9,10 +9,14 @@ This is collection of best resources for many different CS topics that I know of
 # ML
 * https://e2eml.school/
 * https://www.fast.ai/ - best ML course (very practical)
+* https://geometricdeeplearning.com/
 * https://www.coursera.org/learn/machine-learning (ML theory basics)
 * book: "Reinforcement Learning: An Introduction"
 * book: "Artificial Intelligence: A Modern Approach"
 * youtube: David Silvers intro to RL - https://www.youtube.com/watch?v=2pWv7GOvuf0
+* https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn - CS224W: Machine Learning with Graphs
+* https://www.youtube.com/watch?v=PtA0lg_e5nA - Geometric deep learning course
+
 
 # RL
 * https://www.coursera.org/specializations/reinforcement-learning
