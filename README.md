@@ -5,6 +5,7 @@ This is collection of best resources for many different CS topics that I know of
 
 # AI
 * https://spinningup.openai.com/en/latest/user/introduction.html
+* https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf - DeepLearning interview questions
 
 # ML
 * https://e2eml.school/
