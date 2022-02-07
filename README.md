@@ -181,6 +181,9 @@ https://www.udacity.com/course/intro-to-backend--ud171 - course by Steve Huffman
 * https://blog.doist.com/decision-making-flat-organization/
 * https://arr.am/2020/07/25/gpt-3-uncertainty-prompts/
 
+# AI Blogs
+* https://xcorr.net/
+
 
 
 
