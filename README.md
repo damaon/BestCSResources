@@ -17,6 +17,7 @@ This is collection of best resources for many different CS topics that I know of
 * youtube: David Silvers intro to RL - https://www.youtube.com/watch?v=2pWv7GOvuf0
 * https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn - CS224W: Machine Learning with Graphs
 * https://www.youtube.com/watch?v=PtA0lg_e5nA - Geometric deep learning course
+* https://mlu-explain.github.io/
 
 
 # RL
